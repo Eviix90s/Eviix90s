@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👾! Alejandro Ramirez 
-  I'm from Mexico</h2>
+# <a href="https://emoji.gg/emoji/8881-shooting-stars"><img src="https://cdn3.emoji.gg/emojis/8881-shooting-stars.gif" width="64px" height="64px" alt="shooting_stars"></a> About Me:
+<h2 align="left">Hi 👾! <br> Alejandro Ramirez <br>I'm from Mexico <br><a href="https://emoji.gg/emoji/8216_MinecraftBee"><img src="https://cdn3.emoji.gg/emojis/8216_MinecraftBee.gif" width="64px" height="64px" alt="MinecraftBee"></a></h2> 
 
 
-
+📊GITHUB PROGRESS📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -12,7 +12,7 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/b7/fe/09/b7fe0977bad1950393d6450f32a37ca0.gif"  />
 
-
+💻TECH STACK⚙️
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-
+🌐SOCIALS🌐
 <div align="left">
   <a href="https://x.com/Ale_90ss" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="36" alt="twitter logo"  />
@@ -73,6 +73,17 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="50" height="36" alt="visualstudio logo"  />
 </div>
+
+
+
+🏆GITHUB TROPHIES🏆
+![](https://github-profile-trophy.vercel.app/?username=Eviix90s&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+🔝TOP🔝
+![](https://github-contributor-stats.vercel.app/api?username=Eviix90s&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 
 
