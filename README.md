@@ -75,11 +75,6 @@
 </div>
 
 
-
-🏆GITHUB TROPHIES🏆
-![](https://github-profile-trophy.vercel.app/?username=Eviix90s&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
 🔝TOP🔝
 ![](https://github-contributor-stats.vercel.app/api?username=Eviix90s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
