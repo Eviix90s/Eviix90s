@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👾! My name is Alejandro Ramirz 
+<h2 align="left">Hi 👾! Alejandro Ramirez 
   I'm from Mexico</h2>
 
 
