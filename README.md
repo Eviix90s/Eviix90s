@@ -2,11 +2,6 @@
 <h2 align="left">Hi 👾! <br> Alejandro Ramirez <br>I'm from Mexico <br><a href="https://emoji.gg/emoji/8216_MinecraftBee"><img src="https://cdn3.emoji.gg/emojis/8216_MinecraftBee.gif" width="64px" height="64px" alt="MinecraftBee"></a></h2> 
 
 
-📊GITHUB PROGRESS📊
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alejandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
 
