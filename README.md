@@ -56,20 +56,6 @@
 
 
 
-<br clear="both">
-
-🌐SOCIALS🌐
-<div align="left">
-  <a href="https://x.com/Ale_90ss" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="36" alt="twitter logo"  />
-  </a>
-  <a href="https://web.telegram.org/k/#6558396640" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="36" alt="telegram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="50" height="36" alt="visualstudio logo"  />
-</div>
-
-
 🔝TOP🔝
 ![](https://github-contributor-stats.vercel.app/api?username=Eviix90s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
